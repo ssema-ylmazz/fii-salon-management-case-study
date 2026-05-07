@@ -17,6 +17,10 @@ The application was developed to simplify appointment workflows, financial track
 
 The system focuses on operational simplicity, reliability and long-term maintainability for small business usage.
 
+## Project Status
+
+The application has been completed, deployed and delivered to the client for real business use.
+
 ## Core Features
 
 - Appointment scheduling and management
