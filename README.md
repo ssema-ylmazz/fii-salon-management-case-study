@@ -28,6 +28,12 @@ The system focuses on operational simplicity, reliability and long-term maintain
 - Staff-based appointment organization
 - Service management system
 - Real-time business tracking
+  
+## Project Scope
+
+This project covers the design, development and deployment of a real-world salon management system for a small business.
+
+The scope includes appointment scheduling, customer management, cashier operations, debt tracking, reporting and production deployment infrastructure.
 
 ## Feature Highlights
 
