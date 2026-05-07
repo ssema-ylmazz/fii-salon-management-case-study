@@ -93,7 +93,15 @@ The original production source code remains private due to:
 
 ## Screenshots
 
-Screenshots will be added soon.
+The following product screens will be included in this case study:
+
+- Dashboard
+- Appointment Management
+- Cashier & Payment Workflow
+- Revenue & Reports
+- Customer Profile
+
+Screenshots are prepared with demo data only. No real customer information is displayed.
 
 ## Contributors
 
