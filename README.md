@@ -29,6 +29,25 @@ The system focuses on operational simplicity, reliability and long-term maintain
 - Service management system
 - Real-time business tracking
 
+## Feature Highlights
+
+### Appointment Workflow
+The system was designed around real salon scheduling operations.  
+Appointments are organized with staff-based planning, time management and daily workflow tracking.
+
+### Cashier & Debt Tracking
+The application includes cashier operations with integrated payment and debt management workflows.  
+Debt balances, partial payments and financial tracking are managed directly within the system.
+
+### Customer Management
+Customer profiles include appointment history, payment records and operational notes to simplify long-term customer tracking.
+
+### Reporting & Business Monitoring
+The platform provides daily operational insights including appointment statistics, payment tracking and revenue monitoring.
+
+### Production-Oriented Architecture
+The application was developed with production deployment and operational stability in mind, including containerized deployment, database backup workflows and reverse proxy infrastructure.
+
 ## Tech Stack
 
 ### Frontend
