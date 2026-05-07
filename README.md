@@ -103,13 +103,29 @@ The original production source code remains private due to:
 
 ## Screenshots
 
-The following product screens will be included in this case study:
+## Screenshots
 
-- Dashboard
-- Appointment Management
-- Cashier & Payment Workflow
-- Revenue & Reports
-- Customer Profile
+### Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
+
+### Appointment Management
+
+![Appointment Management](./screenshots/appointments.png)
+
+### Cashier & Payment Workflow
+
+![Cashier](./screenshots/cashier.png)
+
+### Revenue & Reports
+
+![Reports](./screenshots/reports.png)
+
+### Customer Profile
+
+![Customer Profile](./screenshots/customer-profile.png)
+
+> All screenshots use demo data only. No real customer information is displayed.
 
 Screenshots are prepared with demo data only. No real customer information is displayed.
 
