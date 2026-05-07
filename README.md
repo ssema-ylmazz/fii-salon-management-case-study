@@ -102,8 +102,7 @@ The original production source code remains private due to:
 - and infrastructure protection requirements.
 
 ## Screenshots
-
-## Screenshots
+The following screenshots present the main operational modules of the system.
 
 ### Dashboard
 
