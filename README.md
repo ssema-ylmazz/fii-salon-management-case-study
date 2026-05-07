@@ -1,5 +1,11 @@
 # Fİİ Salon Management Panel
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Production Ready](https://img.shields.io/badge/Production_Ready-1f883d?style=for-the-badge)
+
 A full-stack salon appointment and business management system developed for a real beauty salon business.
 
 This project was designed and deployed as a production-ready web application focused on appointment scheduling, customer management, cashier operations, debt tracking and business reporting.
